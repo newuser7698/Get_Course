@@ -5,4 +5,3 @@ For learning Get and GetHub
 - [ ] Learn more about Fork
 - [ ] Learn SwiftUI
 - [ ] Learn UIKit
-- [ ] try new chick list way
