@@ -6,5 +6,3 @@ For learning Get and GetHub
 - [ ] Learn SwiftUI
 - [ ] Learn UIKit
 - [ ] Lear swift async/await
-- [ ] Make the change in the other branck  
-- [ ] Add another change
